@@ -80,6 +80,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>todo-service1</finalName>
     </build>
 
 </project>
